@@ -47,17 +47,6 @@ Currently pursuing my **B.Tech in AI & ML** from **BIT Patna**, with a keen inte
 - Identified key survival patterns by gender, class, and age  
 - Tools: Python, Pandas, Seaborn, Matplotlib  
 
----
-
-### 2. 🤖 [Machine Learning Model – Titanic Survival Prediction](https://github.com/yourusername/data-science-portfolio/tree/main/ML_Titanic)
-- Built a **Logistic Regression** model to predict passenger survival  
-- Conducted feature engineering and model evaluation  
-- Tools: Python, Scikit-learn, Pandas  
-
----
-
-### 3. 📊 [Your Next Project – Add Here]
-- *(Placeholder for your next project, e.g., "House Price Prediction" or "Netflix Data Analysis")*
 
 ---
 
