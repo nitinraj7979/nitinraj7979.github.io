@@ -78,7 +78,7 @@ Currently pursuing my **B.Tech in AI & ML** from **BIT Patna**, with a keen inte
 ---
 
 ## 💻 Coding Profiles
-- **LeetCode:** [leetcode.com/yourusername](https://leetcode.com/yourusername)  
+- **LeetCode:** [Nitin7979](https://leetcode.com/u/Nitin7979/)  
 
 ---
 
