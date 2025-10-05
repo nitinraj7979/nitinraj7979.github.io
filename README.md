@@ -73,7 +73,7 @@ Currently pursuing my **B.Tech in AI & ML** from **BIT Patna**, with a keen inte
 - Performed data cleaning and visualization using **Pandas**, **Matplotlib**, and **Seaborn**  
 - Identified key survival patterns by gender, class, and age  
 - Tools: Python, Pandas, Seaborn, Matplotlib  
-- Repository: https://nitinraj7979.github.io/data-science-EDA_Titanic/
+- Repository: https://github.com/nitinraj7979/data-science-EDA_Titanic
 
 ---
 
