@@ -32,11 +32,13 @@ Currently pursuing my **B.Tech in AI & ML** from **BIT Patna**, with a keen inte
 ---
 
 ## 🎓 Education
-| Qualification | Institution | Year | Board/University | Percentage |
-|---------------|-------------|------|------------------|-------------|
-| **B.Tech (AI & ML)** | BIT Patna | 2022 - 2026 | BIT Patna | 80.7% |
-| **12th** | St. Karen’s Secondary School | 2021 - 2022 | CBSE | 83.83% |
-| **10th** | St. Karen’s Secondary School | 2019 - 2020 | CBSE | 88.5% |
+
+| Qualification     | Institution                    | Year         | Board / University | Percentage |
+|-------------------|--------------------------------|--------------|--------------------|-------------|
+| B.Tech (AI & ML)  | BIT Patna                      | 2022 – 2026  | BIT Patna          | 80.7%       |
+| 12th              | St. Karen’s Secondary School   | 2021 – 2022  | CBSE               | 83.83%      |
+| 10th              | St. Karen’s Secondary School   | 2019 – 2020  | CBSE               | 88.5%       |
+
 
 ---
 
