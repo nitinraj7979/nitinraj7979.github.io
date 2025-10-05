@@ -69,7 +69,7 @@ Currently pursuing my **B.Tech in AI & ML** from **BIT Patna**, with a keen inte
 
 ## 📂 Projects
 
-### 1. 🧹 [Exploratory Data Analysis – Titanic Dataset](https://github.com/yourusername/data-science-portfolio/tree/main/EDA_Titanic)
+### 1. 🧹 [data-science-EDA_Titanic](https://nitinraj7979.github.io/data-science-EDA_Titanic/)
 - Performed data cleaning and visualization using **Pandas**, **Matplotlib**, and **Seaborn**  
 - Identified key survival patterns by gender, class, and age  
 - Tools: Python, Pandas, Seaborn, Matplotlib  
