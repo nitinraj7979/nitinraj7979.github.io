@@ -78,7 +78,8 @@ Currently pursuing my **B.Tech in AI & ML** from **BIT Patna**, with a keen inte
 ---
 
 ## 💻 Coding Profiles
-- Solved problems on arrays, strings and data structures**LeetCode:** [Nitin7979](https://leetcode.com/u/Nitin7979/)  
+- **LeetCode:** [Nitin7979](https://leetcode.com/u/Nitin7979/)
+  Solved problems on arrays, strings and data structures 
 
 ---
 
